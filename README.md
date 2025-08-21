@@ -50,6 +50,8 @@ pip install -r requirements.txt
 
 # Jupyter Notebook açma
 jupyter notebook
+-----
+
 
 📖 Notlar
 
